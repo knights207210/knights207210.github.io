@@ -1,4 +1,3 @@
-
 function main() {
 
 (function () {
@@ -62,7 +61,7 @@ $('#nav').affix({
 
   	// Portfolio isotope filter
     $(window).load(function() {
-        var $container = $('.portfolio-items');
+        var $container = $('.self-define-portfolio');
         $container.isotope({
             filter: '*',
             animationOptions: {

@@ -1123,6 +1123,21 @@ a:focus {
 figure {
   margin: 0;
 }
+.self-define-col-sm-8{
+  text-align: center;
+  left: 30%;
+  width: 100%;
+}
+.self-define-hover-bg{
+  float: left;
+  width: 40%;
+}
+.self-define-project-description{
+  float: right;
+  
+  width: 50%;
+}
+.
 img {
   vertical-align: middle;
 }
